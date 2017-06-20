@@ -1,0 +1,7 @@
+{"app": "Groupon",
+"package": "com.groupon",
+"name": "click_card",
+"actions": [
+{"action": "click", "measure":true, "findby": {"id": "com.groupon:id/deal_card_view_container"}}
+]
+}

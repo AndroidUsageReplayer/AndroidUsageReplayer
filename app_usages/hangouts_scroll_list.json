@@ -1,0 +1,7 @@
+{"app": "Hangout",
+"package": "com.google.android.talk",
+"name": "scroll_list",
+"actions": [
+{"action": "scroll", "measure":true, "findby": {"id": "com.google.android.talk:id/list"}}
+]
+}

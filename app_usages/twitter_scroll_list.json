@@ -1,0 +1,7 @@
+{"app": "Twitter",
+"package": "com.twitter.android",
+"name": "scroll_list",
+"actions": [
+{"action": "scroll", "measure":true, "findby": {"id": "android:id/list", "desc": "Home timeline list"}}
+]
+}

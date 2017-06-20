@@ -1,0 +1,7 @@
+{"app": "MobilePatrol",
+"package": "com.appriss.mobilepatrol",
+"name": "scroll_list",
+"actions": [
+{"action": "scroll", "measure":true, "findby": {"id": "com.appriss.mobilepatrol:id/newsfeedlist"}}
+]
+}

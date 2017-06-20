@@ -1,0 +1,7 @@
+{"app": "Bumble",
+"package": "com.bumble.app",
+"name": "scroll_photo",
+"actions": [
+{"action": "scroll", "measure":true, "findby": {"id": "com.bumble.app:id/profile_photoBrowser", "class": "android.support.v7.widget.RecyclerView"}}
+]
+}

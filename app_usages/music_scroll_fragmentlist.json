@@ -1,0 +1,7 @@
+{"app": "Google Play Music",
+"package": "com.google.android.music",
+"name": "scroll_fragmentlist",
+"actions": [
+{"action": "scroll", "measure":true, "findby": {"id": "com.google.android.music:id/fragment_list", "class": "android.support.v7.widget.RecyclerView"}}
+]
+}

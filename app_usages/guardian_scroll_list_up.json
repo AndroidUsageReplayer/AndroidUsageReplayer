@@ -1,0 +1,7 @@
+{"app": "Guardian",
+"package": "com.guardian",
+"name": "scroll_list_up",
+"actions": [
+{"action": "scroll", "measure":true, "findby": {"id": "android:id/list", "class": "android.widget.ExpandableListView"}, "direction": "UP"}
+]
+}

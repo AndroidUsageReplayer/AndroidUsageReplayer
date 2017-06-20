@@ -1,0 +1,7 @@
+{"app": "TypeApp",
+"package": "com.trtf.blue",
+"name": "scroll_list",
+"actions": [
+{"action": "scroll", "measure":true, "findby": {"id": "com.trtf.blue:id/message_list", "class": "android.widget.ListView"}}
+]
+}

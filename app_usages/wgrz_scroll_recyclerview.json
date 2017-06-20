@@ -1,0 +1,7 @@
+{"app": "WGRZ2",
+"package": "com.gannett.local.library.news.wgrz",
+"name": "scroll_list",
+"actions": [
+{"action": "scroll", "measure":true, "findby": {"id": "com.gannett.local.library.news.wgrz:id/homescreen_fragment", "class": "android.support.v7.widget.RecyclerView"}}
+]
+}

@@ -1,0 +1,9 @@
+{"app": "NPR News",
+"package": "org.npr.android.news",
+"name": "click_topics",
+"actions": [
+{"action": "click", "measure":false, "findby": {"id": "org.npr.android.news:id/spinner"}},
+{"action": "click", "measure":false, "findby": {"id": "android:id/text1", "text": "topics"}},
+{"action": "click", "measure":true, "findby": {"id": "org.npr.android.news:id/topic_item", "text": "Politics"}}
+]
+}

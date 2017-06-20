@@ -1,0 +1,8 @@
+{"app": "The Weather Channel",
+"package": "com.weather.Weather",
+"name": "scroll_video",
+"actions": [
+{"action": "click", "measure":false, "findby": {"id": "com.weather.Weather:id/video_tile"}},
+{"action": "scroll", "measure":true, "findby": {"id": "com.weather.Weather:id/playlist"}}
+]
+}

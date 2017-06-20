@@ -1,0 +1,7 @@
+{"app": "AOL",
+"package": "com.aol.mobile.aolapp",
+"name": "scroll_list_up",
+"actions": [
+{"action": "scroll", "measure":true, "findby": {"id": "com.aol.mobile.aolapp:id/recycler_view"}, "direction": "UP"}
+]
+}

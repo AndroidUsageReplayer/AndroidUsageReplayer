@@ -1,0 +1,7 @@
+{"app": "OkCupid",
+"package": "com.okcupid.okcupid",
+"name": "scroll_list",
+"actions": [
+{"action": "scroll", "measure":true, "findby": {"id": "com.okcupid.okcupid:id/matches_recyler_view"}}
+]
+}

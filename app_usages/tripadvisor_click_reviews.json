@@ -1,0 +1,7 @@
+{"app": "TripAdvisor",
+"package": "com.tripadvisor.tripadvisor",
+"name": "click_reviews",
+"actions": [
+{"action": "click", "measure": true, "findby": {"text": "Review", "class": "android.widget.Button"}}
+]
+}

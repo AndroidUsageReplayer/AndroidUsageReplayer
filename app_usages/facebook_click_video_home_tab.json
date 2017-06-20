@@ -1,0 +1,7 @@
+{"app": "Facebook",
+"package": "com.facebook.katana",
+"name": "click_profile",
+"actions": [
+{"action": "click", "measure":true, "findby": {"id": "com.facebook.katana:id/video_home_tab"}}
+]
+}

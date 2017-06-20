@@ -1,0 +1,7 @@
+{"app": "Zoosk",
+"package": "com.zoosk.zoosk",
+"name": "scroll_observe",
+"actions": [
+{"action": "scroll", "measure":true, "findby": {"id": "com.zoosk.zoosk:id/observableScrollView", "class": "android.widget.ScrollView"}}
+]
+}

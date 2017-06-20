@@ -1,0 +1,8 @@
+{"app": "Pinterest",
+"package": "com.pinterest",
+"name": "scroll_list",
+"actions": [
+{"action": "click", "measure":false, "findby": {"id": "com.pinterest:id/menu_explore", "class": "android.widget.ImageView"}},
+{"action": "scroll", "measure":true, "findby": {"id": "com.pinterest:id/grid_vw", "class": "android.widget.ScrollView"}}
+]
+}

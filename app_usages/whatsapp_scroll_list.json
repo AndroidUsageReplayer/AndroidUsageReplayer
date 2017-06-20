@@ -1,0 +1,7 @@
+{"app": "Whatsapp",
+"package": "com.whatsapp",
+"name": "scroll_list",
+"actions": [
+{"action": "scroll", "measure":true, "findby": {"id": "com.whatsapp:id/list"}}
+]
+}

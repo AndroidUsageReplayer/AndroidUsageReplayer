@@ -1,0 +1,10 @@
+{"app": "Messenger",
+"package": "com.facebook.orca",
+"name": "click_send",
+"actions": [
+{"action": "click", "measure":false, "findby": {"id": "com.facebook.orca:id/thread_tile_img", "class": "android.view.View"}},
+{"action": "click", "measure":false, "findby": {"id": "com.facebook.orca:id/bot_composer_edit_text", "text": "Write a message…"}},
+{"action": "search", "measure":true, "findby": {"id": "com.facebook.orca:id/edit_text", "text": "Write a message…"}, "text": "Hi Bot!"},
+{"action": "click", "measure":false, "findby": {"id": "com.facebook.orca:id/send_button", "class": "android.widget.ImageView"}}
+]
+}

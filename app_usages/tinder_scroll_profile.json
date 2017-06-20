@@ -1,0 +1,8 @@
+{"app": "Tinder",
+"package": "com.tinder",
+"name": "scroll_profile",
+"actions": [
+{"action": "click", "measure":false, "findby": {"id": "com.tinder:id/avatar_view_single"}},
+{"action": "scroll", "measure":true, "findby": {"id": "com.tinder:id/profile_image_pager"}}
+]
+}

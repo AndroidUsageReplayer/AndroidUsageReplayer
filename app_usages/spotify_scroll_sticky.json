@@ -1,0 +1,9 @@
+{"app": "Spotify",
+"package": "com.spotify.music",
+"name": "scroll_sticky",
+"actions": [
+{"action": "click", "measure":false, "findby": {"id": "com.spotify.music:id/browse_tab"}},
+{"action": "scroll", "measure":true, "findby": {"id": "com.spotify.music:id/legacy_header_sticky_inner_recycler"}}
+
+]
+}

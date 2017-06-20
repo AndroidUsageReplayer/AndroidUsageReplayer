@@ -1,0 +1,7 @@
+{"app": "Gmail",
+"package": "com.google.android.gm",
+"name": "scroll_conversationlist",
+"actions": [
+{"action": "scroll", "measure":true, "findby": {"id": "com.google.android.gm:id/list_view"}}
+]
+}

@@ -1,0 +1,7 @@
+{"app": "WeChat",
+"package": "com.tencent.mm",
+"name": "scroll_list",
+"actions": [
+{"action": "scroll", "measure":true, "findby": {"id": "com.tencent.mm:id/y1"}}
+]
+}

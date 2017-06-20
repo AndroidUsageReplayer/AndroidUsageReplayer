@@ -1,0 +1,9 @@
+{"app": "Messenger",
+"package": "com.facebook.orca",
+"name": "scroll_list",
+"actions": [
+{"action": "click", "measure":false, "findby": {"id": "com.facebook.orca:id/thread_tile_img", "class": "android.view.View"}},
+{"action": "scroll", "measure":true, "findby": {"id": "com.facebook.orca:id/messages_list", "class": "android.widget.ListView"}}
+
+]
+}

@@ -1,0 +1,8 @@
+{"app": "Groupon",
+"package": "com.groupon",
+"name": "scroll_list",
+"actions": [
+{"action": "click", "measure":false, "findby": {"id": "com.groupon:id/deal_card_view_container"}},
+{"action": "scroll", "measure":true, "findby": {"id": "com.groupon:id/recyclerview_dealdetails", "class":"android.support.v7.widget.RecyclerView"}}
+]
+}

@@ -1,0 +1,8 @@
+{"app": "Groupon",
+"package": "com.groupon",
+"name": "click_search",
+"actions": [
+{"action": "click", "measure":false, "findby": {"id": "com.groupon:id/global_search_bar"}},
+{"action": "click", "measure":true, "findby": {"text": "Retail", "id":"com.groupon:id/category_title"}}
+]
+}

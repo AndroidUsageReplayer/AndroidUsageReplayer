@@ -1,0 +1,7 @@
+{"app": "NPR News",
+"package": "org.npr.android.news",
+"name": "scroll_list",
+"actions": [
+{"action": "scroll", "measure":true, "findby": {"id": "org.npr.android.news:id/story_list", "class": "android.widget.ListView"}}
+]
+}

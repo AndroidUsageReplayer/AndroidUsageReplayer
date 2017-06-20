@@ -1,0 +1,8 @@
+{"app": "Snapchat",
+"package": "com.snapchat.android",
+"name": "scroll_storieslist",
+"actions": [
+{"action": "click", "measure":false, "findby": {"id": "com.snapchat.android:id/hova_nav_stories_notification_circle"}},
+{"action": "scroll", "measure":true, "findby": {"id": "com.snapchat.android:id/stories_recycler_view"}}
+]
+}

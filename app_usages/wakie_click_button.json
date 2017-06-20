@@ -1,0 +1,7 @@
+{"app": "Wakie",
+"package": "com.wakie.android",
+"name": "click_button",
+"actions": [
+{"action": "click", "measure":true, "findby": {"id": "com.wakie.android:id/bottom_navigation_small_container"}}
+]
+}

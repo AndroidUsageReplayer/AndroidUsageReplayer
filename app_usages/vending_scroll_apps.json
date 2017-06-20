@@ -1,0 +1,9 @@
+{"app": "Google Play Store",
+"package": "com.android.vending",
+"name": "scroll_apps",
+"actions": [
+{"action": "click", "measure":false, "findby": {"id": "com.android.vending:id/navigation_button", "class": "android.widget.ImageView"}},
+{"action": "click", "measure":false, "findby": {"text": "My apps & games", "class": "android.widget.TextView"}},
+{"action": "scroll", "measure":true, "findby": {"id": "com.android.vending:id/my_apps_content_list"}}
+]
+}

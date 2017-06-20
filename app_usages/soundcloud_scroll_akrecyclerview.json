@@ -1,0 +1,7 @@
+{"app": "SoundCloud",
+"package": "com.soundcloud.android",
+"name": "scroll_list",
+"actions": [
+{"action": "scroll", "measure":true, "findby": {"id": "com.soundcloud.android:id/ak_recycler_view" , "class": "android.support.v7.widget.RecyclerView"}}
+]
+}

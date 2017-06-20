@@ -1,0 +1,7 @@
+{"app": "The Weather Channel",
+"package": "com.weather.Weather",
+"name": "click_roadcondition",
+"actions": [
+{"action": "click", "measure":true, "findby": {"id": "com.weather.Weather:id/tile1"}}
+]
+}

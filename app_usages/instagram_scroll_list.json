@@ -1,0 +1,7 @@
+{"app": "Instagram",
+"package": "com.instagram.android",
+"name": "scroll_list",
+"actions": [
+{"action": "scroll", "measure":true, "findby": {"id": "android:id/list"}}
+]
+}

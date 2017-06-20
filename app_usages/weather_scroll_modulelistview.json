@@ -1,0 +1,7 @@
+{"app": "The Weather Channel",
+"package": "com.weather.Weather",
+"name": "scroll_list",
+"actions": [
+{"action": "scroll", "measure":true, "findby": {"id": "com.weather.Weather:id/module_list_view"}}
+]
+}

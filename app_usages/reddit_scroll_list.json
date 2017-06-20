@@ -1,0 +1,7 @@
+{"app": "reddit is fun",
+"package": "com.andrewshu.android.reddit",
+"name": "scroll_list",
+"actions": [
+{"action": "scroll", "measure":true, "findby": {"id": "com.andrewshu.android.reddit:id/list"}}
+]
+}

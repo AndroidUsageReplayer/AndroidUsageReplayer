@@ -1,0 +1,7 @@
+{"app": "Twitter",
+"package": "com.twitter.android",
+"name": "click_tabs",
+"actions": [
+{"action": "click", "measure":true, "findby": {"id": "com.twitter.android:id/moments"}}
+]
+}

@@ -1,0 +1,7 @@
+{"app": "Snapchat",
+"package": "com.snapchat.android",
+"name": "click_storieslist",
+"actions": [
+{"action": "click", "measure":true, "findby": {"id": "com.snapchat.android:id/hova_nav_stories_notification_circle"}}
+]
+}

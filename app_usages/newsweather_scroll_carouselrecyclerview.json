@@ -1,0 +1,7 @@
+{"app": "News & Weather",
+"package": "com.google.android.apps.genie.geniewidget",
+"name": "scroll_list",
+"actions": [
+{"action": "scroll", "measure":true, "findby": {"id": "com.google.android.apps.genie.geniewidget:id/list"}}
+]
+}

@@ -1,0 +1,7 @@
+{"app": "Drive",
+"package": "com.google.android.apps.docs",
+"name": "scroll_list",
+"actions": [
+{"action": "scroll", "measure":true, "findby": {"id": "android:id/list"}}
+]
+}

@@ -1,0 +1,7 @@
+{"app": "OkCupid",
+"package": "com.okcupid.okcupid",
+"name": "click_list",
+"actions": [
+{"action": "click", "measure":true, "findby": {"id": "com.okcupid.okcupid:id/bottom_info"}},
+]
+}

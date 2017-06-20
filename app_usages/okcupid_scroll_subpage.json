@@ -1,0 +1,8 @@
+{"app": "OkCupid",
+"package": "com.okcupid.okcupid",
+"name": "scroll_list",
+"actions": [
+{"action": "click", "measure":false, "findby": {"id": "com.okcupid.okcupid:id/bottom_info"}},
+{"action": "scroll", "measure":true, "findby": { "id": "com.okcupid.okcupid:id/profile_scrollview"}}
+]
+}

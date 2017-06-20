@@ -1,0 +1,7 @@
+{"app": "Google Play Store",
+"package": "com.android.vending",
+"name": "scroll_list",
+"actions": [
+{"action": "scroll", "measure":true, "findby": {"id": "com.android.vending:id/tab_recycler_view"}}
+]
+}

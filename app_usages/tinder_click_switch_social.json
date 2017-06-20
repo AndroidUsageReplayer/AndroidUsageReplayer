@@ -1,0 +1,7 @@
+{"app": "Tinder",
+"package": "com.tinder",
+"name": "click_profile",
+"actions": [
+{"action": "click", "measure":true, "findby": {"id": "com.tinder:id/discovery_switch_social"}}
+]
+}

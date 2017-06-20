@@ -1,0 +1,7 @@
+{"app": "Yik Yak",
+"package": "com.yik.yak",
+"name": "click_detail",
+"actions": [
+{"action": "click", "measure":true, "findby": {"id": "com.yik.yak:id/", "class": "android.widget.RelativeLayout"}}
+]
+}

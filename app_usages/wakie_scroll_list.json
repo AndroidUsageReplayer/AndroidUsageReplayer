@@ -1,0 +1,7 @@
+{"app": "Wakie",
+"package": "com.wakie.android",
+"name": "scroll_list",
+"actions": [
+{"action": "scroll", "measure":true, "findby": {"id": "android:id/list"}}
+]
+}

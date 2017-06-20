@@ -1,0 +1,9 @@
+{"app": "Google Play Store",
+"package": "com.android.vending",
+"name": "click_buy",
+"actions": [
+{"action": "click", "measure":false, "findby": {"id": "com.android.vending:id/li_thumbnail_frame", "class":"android.widget.FrameLayout"}},
+{"action": "click", "measure":false, "findby": {"id": "com.android.vending:id/buy_button"}},
+{"action": "click", "measure":true, "findby": {"id": "com.android.vending:id/continue_button"}}
+]
+}

@@ -1,0 +1,7 @@
+{"app": "HuffPost",
+"package": "com.huffingtonpost.android",
+"name": "scroll_list",
+"actions": [
+{"action": "scroll", "measure":true, "findby": {"id": "com.huffingtonpost.android:id/recyclerView", "class": "android.support.v7.widget.RecyclerView"}}
+]
+}

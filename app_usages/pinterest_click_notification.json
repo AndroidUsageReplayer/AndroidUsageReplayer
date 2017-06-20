@@ -1,0 +1,7 @@
+{"app": "Pinterest",
+"package": "com.pinterest",
+"name": "click_notification",
+"actions": [
+{"action": "click", "measure":true, "findby": {"id": "com.pinterest:id/notification_menu_view", "class": "android.widget.FrameLayout"}}
+]
+}

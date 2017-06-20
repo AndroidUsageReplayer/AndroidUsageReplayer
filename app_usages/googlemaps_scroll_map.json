@@ -1,0 +1,7 @@
+{"app": "Maps",
+"package": "com.google.android.apps.maps",
+"name": "scroll_map",
+"actions": [
+{"action": "scroll", "measure":true, "findby": {"id": "android:id/content"}}
+]
+}

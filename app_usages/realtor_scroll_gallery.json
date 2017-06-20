@@ -1,0 +1,9 @@
+{"app": "realtor.com",
+"package": "com.move.realtor",
+"name": "scroll_galery",
+"actions": [
+{"action": "click", "measure":false, "findby": {"id": "com.move.realtor:id/selectorView"}},
+{"action": "click", "measure":false, "findby": {"id": "com.move.realtor:id/info_over_gallery"}},
+{"action": "scroll", "measure":true, "findby": {"id": "com.move.realtor:id/gallery"}}
+]
+}

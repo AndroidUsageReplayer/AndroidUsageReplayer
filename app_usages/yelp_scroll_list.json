@@ -1,0 +1,8 @@
+{"app": "Yelp",
+"package": "com.yelp.android",
+"name": "scroll_list",
+"actions": [
+{"action": "click", "measure":false, "findby": {"id": "com.yelp.android:id/title", "text":"Restaurants"}},
+{"action": "scroll", "measure":true, "findby": {"id": "android:id/list"}}
+]
+}

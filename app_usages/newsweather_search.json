@@ -1,0 +1,8 @@
+{"app": "News & Weather",
+"package": "com.google.android.apps.genie.geniewidget",
+"name": "search",
+"actions": [
+{"action": "click", "measure":false, "findby": {"id": "com.google.android.apps.genie.geniewidget:id/menu_search", "desc":"Search"}},
+{"action": "search", "measure":true, "findby": {"id": "com.google.android.apps.genie.geniewidget:id/search_src_text", "text":"Search news"}, "text":"Obamacare"}
+]
+}

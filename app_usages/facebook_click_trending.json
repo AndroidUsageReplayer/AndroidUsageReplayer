@@ -1,0 +1,8 @@
+{"app": "Facebook",
+"package": "com.facebook.katana",
+"name": "click_trends",
+"actions": [
+{"action": "click", "measure":false, "findby": {"id": "com.facebook.katana:id/search_edit_text"}},
+{"action": "click", "measure":true, "findby": {"id": "com.facebook.katana:id/search_null_state_content_view"}}
+]
+}

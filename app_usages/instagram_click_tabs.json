@@ -1,0 +1,7 @@
+{"app": "Instagram",
+"package": "com.instagram.android",
+"name": "click_tabs",
+"actions": [
+{"action": "click", "measure":true, "findby": {"desc": "Search and Explore"}}
+]
+}

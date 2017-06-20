@@ -1,0 +1,8 @@
+{"app": "Google Play Store",
+"package": "com.android.vending",
+"name": "search",
+"actions": [
+{"action": "click", "measure":false, "findby": {"id": "com.android.vending:id/search_box_idle_text", "class": "android.widget.ImageView"}},
+{"action": "search", "measure":true, "findby": {"id": "com.android.vending:id/search_box_text_input", "text": "Search Google Play"}, "text": "music"}
+]
+}

@@ -1,0 +1,8 @@
+{"app": "Guardian",
+"package": "com.guardian",
+"name": "scroll_article",
+"actions": [
+{"action": "click", "measure":false, "findby": {"id": "com.guardian:id/card_headline"}},
+{"action": "scroll", "measure":true, "findby": {"id": "com.guardian:id/recycler_view", "class": "android.support.v7.widget.RecyclerView"}}
+]
+}

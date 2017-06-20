@@ -1,0 +1,8 @@
+{"app": "YouTube",
+"package": "com.google.android.youtube",
+"name": "scroll_video_info_view",
+"actions": [
+{"action": "click", "measure":false, "findby": {"id": "com.google.android.youtube:id/event_item"}},
+{"action": "scroll", "measure":true, "findby": {"id": "com.google.android.youtube:id/watch_list"}}
+]
+}

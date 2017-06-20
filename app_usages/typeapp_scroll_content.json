@@ -1,0 +1,8 @@
+{"app": "TypeApp",
+"package": "com.trtf.blue",
+"name": "scroll_content",
+"actions": [
+{"action": "click", "measure":false, "findby": {"id": "com.trtf.blue:id/list_item_inner", "class": "android.widget.RelativeLayout"}},
+{"action": "scroll", "measure":true, "findby": {"id": "com.trtf.blue:id/message_content", "class": "android.webkit.WebView"}}
+]
+}

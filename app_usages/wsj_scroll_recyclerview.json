@@ -1,0 +1,7 @@
+{"app": "WSJ",
+"package": "wsj.reader_sp",
+"name": "scroll_list",
+"actions": [
+{"action": "scroll", "measure":true, "findby": {"id": "wsj.reader_sp:id/recyclerView", "class": "android.support.v7.widget.RecyclerView"}}
+]
+}

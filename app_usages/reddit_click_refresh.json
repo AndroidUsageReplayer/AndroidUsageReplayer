@@ -1,0 +1,7 @@
+{"app": "reddit is fun",
+"package": "com.andrewshu.android.reddit",
+"name": "click_refresh",
+"actions": [
+{"action": "click", "measure":true, "findby": {"id": "com.andrewshu.android.reddit:id/menu_refresh_threads"}}
+]
+}

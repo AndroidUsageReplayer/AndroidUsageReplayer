@@ -1,0 +1,8 @@
+{"app": "KakaoStory",
+"package": "com.kakao.story",
+"name": "scroll_list",
+"actions": [
+{"action": "click", "measure":false, "findby": {"id": "com.kakao.story:id/tv_suggested_container", "text": "Go to StoryTeller"}},
+{"action": "scroll", "measure":true, "findby": {"id": "com.kakao.story:id/lv_list"}}
+]
+}

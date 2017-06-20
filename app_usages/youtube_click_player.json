@@ -1,0 +1,7 @@
+{"app": "YouTube",
+"package": "com.google.android.youtube",
+"name": "click_player",
+"actions": [
+{"action": "click", "measure":true, "findby": {"id": "com.google.android.youtube:id/event_item"}}
+]
+}

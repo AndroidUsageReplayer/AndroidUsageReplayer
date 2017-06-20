@@ -1,0 +1,8 @@
+{"app": "Yik Yak",
+"package": "com.yik.yak",
+"name": "click_detail",
+"actions": [
+{"action": "click", "measure":false, "findby": {"desc": "Explore Tab", "class": "android.widget.FrameLayout"}},
+{"action": "click", "measure":true, "findby": {"text": "🔥 Top Yaks", "class": "android.widget.TextView"}}
+]
+}

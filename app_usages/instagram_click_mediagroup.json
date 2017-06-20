@@ -1,0 +1,7 @@
+{"app": "Instagram",
+"package": "com.instagram.android",
+"name": "click_media",
+"actions": [
+{"action": "click", "measure":true, "findby": {"id": "com.instagram.android:id/media_group"}}
+]
+}

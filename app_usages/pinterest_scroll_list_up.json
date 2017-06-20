@@ -1,0 +1,7 @@
+{"app": "Pinterest",
+"package": "com.pinterest",
+"name": "scroll_list_up",
+"actions": [
+{"action": "scroll", "measure":true, "findby": {"id": "com.pinterest:id/grid_vw", "class": "android.widget.ScrollView"}, "direction": "UP"}
+]
+}

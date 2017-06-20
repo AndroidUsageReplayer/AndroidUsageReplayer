@@ -1,0 +1,8 @@
+{"app": "TripAdvisor",
+"package": "com.tripadvisor.tripadvisor",
+"name": "click_nearme",
+"actions": [
+{"action": "click", "measure": false, "findby": {"text": "Near Me Now"}},
+{"action": "click", "measure": true, "findby": {"text": "All Restaurants"}}
+]
+}

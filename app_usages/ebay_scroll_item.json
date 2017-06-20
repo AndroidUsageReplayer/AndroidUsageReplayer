@@ -1,0 +1,10 @@
+{"app": "eBay",
+"package": "com.ebay.mobile",
+"name": "scroll_search",
+"actions": [
+{"action": "click", "measure":false, "findby": {"id": "com.ebay.mobile:id/capsule_deals", "text": "Deals"}},
+{"action": "click", "measure":false, "findby": {"id": "com.ebay.mobile:id/card_item_1"}},
+{"action": "scroll", "measure":true, "findby": {"id": "com.ebay.mobile:id/top_scrollview"}}
+
+]
+}

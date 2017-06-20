@@ -1,0 +1,8 @@
+{"app": "Tapatalk",
+"package": "com.quoord.tapatalkpro.activity",
+"name": "scroll_threadlist",
+"actions": [
+{"action": "click", "measure":false, "findby": {"id": "com.quoord.tapatalkpro.activity:id/content", "class": "android.widget.TextView"}},
+{"action": "scroll", "measure":true, "findby": {"id": "com.quoord.tapatalkpro.activity:id/list", "class": "android.widget.ListView"}}
+]
+}

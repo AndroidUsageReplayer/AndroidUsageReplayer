@@ -1,0 +1,7 @@
+{"app": "ESPN Fantasy",
+"package": "com.espn.fantasy.lm.football",
+"name": "scroll_webview",
+"actions": [
+{"action": "scroll", "measure":true, "findby": {"id": "com.espn.fantasy.lm.football:id/webview"}}
+]
+}

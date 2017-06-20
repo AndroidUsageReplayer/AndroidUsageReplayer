@@ -1,0 +1,7 @@
+{"app": "Yik Yak",
+"package": "com.yik.yak",
+"name": "click_sorting",
+"actions": [
+{"action": "click", "measure":true, "findby": {"id": "com.yik.yak:id/", "class": "android.widget.ImageView", "desc":"Icon for sorting the feed"}}
+]
+}

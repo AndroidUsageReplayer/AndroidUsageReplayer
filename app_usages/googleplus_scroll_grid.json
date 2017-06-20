@@ -1,0 +1,7 @@
+{"app": "Google+",
+"package": "com.google.android.apps.plus",
+"name": "scroll_grid",
+"actions": [
+{"action": "scroll", "measure":true, "findby": {"id": "com.google.android.apps.plus:id/grid"}}
+]
+}

@@ -1,0 +1,7 @@
+{"app": "YouTube",
+"package": "com.google.android.youtube",
+"name": "scroll_watchlist",
+"actions": [
+{"action": "scroll", "measure":true, "findby": {"id": "com.google.android.youtube:id/results"}}
+]
+}

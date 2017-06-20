@@ -1,0 +1,7 @@
+{"app": "Slickdeals",
+"package": "net.slickdeals.android",
+"name": "click_deal_details",
+"actions": [
+{"action": "click", "measure":true, "findby": {"id": "net.slickdeals.android:id/deal_row_linear_layout", "class": "android.widget.LinearLayout"}} 
+]
+}

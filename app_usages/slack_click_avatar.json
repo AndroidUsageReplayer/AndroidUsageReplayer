@@ -1,0 +1,7 @@
+{"app": "Slack",
+"package": "com.Slack",
+"name": "click_avatar",
+"actions": [
+{"action": "scroll", "measure":true, "findby": {"id": "com.Slack:id/avatar_button", "class": "android.widget.ImageView"}}
+]
+}

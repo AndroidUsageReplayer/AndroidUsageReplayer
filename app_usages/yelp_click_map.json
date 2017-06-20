@@ -1,0 +1,8 @@
+{"app": "Yelp",
+"package": "com.yelp.android",
+"name": "click_map",
+"actions": [
+{"action": "click", "measure":false, "findby": {"id": "com.yelp.android:id/title", "text":"Restaurants"}},
+{"action": "click", "measure":true, "findby": {"id": "com.yelp.android:id/toggle", "desc": "Map"}}
+]
+}

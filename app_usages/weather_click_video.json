@@ -1,0 +1,7 @@
+{"app": "The Weather Channel",
+"package": "com.weather.Weather",
+"name": "click_video",
+"actions": [
+{"action": "click", "measure":true, "findby": {"id": "com.weather.Weather:id/video_tile"}}
+]
+}

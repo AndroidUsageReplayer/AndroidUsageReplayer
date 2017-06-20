@@ -1,0 +1,7 @@
+{"app": "Google Play Newsstand",
+"package": "com.google.android.apps.magazines",
+"name": "scroll_home",
+"actions": [
+{"action": "scroll", "measure":true, "findby": {"id": "com.google.android.apps.magazines:id/play_header_listview"}}
+]
+}

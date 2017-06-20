@@ -1,0 +1,9 @@
+{"app": "Hangouts",
+"package": "com.google.android.talk",
+"name": "send_msg",
+"actions": [
+{"action": "click", "measure":false, "findby": {"id": "com.google.android.apps.hangouts:id/conversationContent"}},
+{"action": "search", "measure":false, "findby": {"id": "com.google.android.apps.hangouts:id/message_text", "text": "Write a message"}, "text": "test"},
+{"action": "click", "measure":true, "findby": {"id": "com.google.android.apps.hangouts:id/floating_send_button"}}
+]
+}

@@ -1,0 +1,7 @@
+{"app": "Zoosk",
+"package": "com.zoosk.zoosk",
+"name": "scroll_viewpager",
+"actions": [
+{"action": "scroll", "measure":true, "findby": {"id": "com.zoosk.zoosk:id/viewPager", "class": "android.support.v4.view.ViewPager"}}
+]
+}

@@ -1,0 +1,7 @@
+{"app": "Coffee Meets Bagel",
+"package": "com.coffeemeetsbagel",
+"name": "scroll_photo",
+"actions": [
+{"action": "scroll", "measure":true, "findby": {"id": "com.coffeemeetsbagel:id/photoViewPager", "class": "android.support.v4.view.ViewPager"}}
+]
+}

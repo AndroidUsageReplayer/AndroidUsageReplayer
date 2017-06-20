@@ -1,0 +1,8 @@
+{"app": "Google Play Newsstand",
+"package": "com.google.android.apps.magazines",
+"name": "scroll_article",
+"actions": [
+{"action": "click", "measure":false, "findby": {"id": "com.google.android.apps.magazines:id/title"}},
+{"action": "scroll", "measure":true, "findby": {"id": "com.google.android.apps.magazines:id/molecule__recycler_view"}}
+]
+}

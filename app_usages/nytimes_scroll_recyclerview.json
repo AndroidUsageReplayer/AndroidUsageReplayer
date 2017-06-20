@@ -1,0 +1,7 @@
+{"app": "NYTimes",
+"package": "com.nytimes.android",
+"name": "scroll_recyclerview",
+"actions": [
+{"action": "scroll", "measure":true, "findby": {"id": "com.nytimes.android:id/sectionFrontRecyclerView", "class": "android.support.v7.widget.RecyclerView"}}
+]
+}

@@ -1,0 +1,7 @@
+{"app": "Facebook",
+"package": "com.facebook.katana",
+"name": "scroll_list",
+"actions": [
+{"action": "scroll", "measure":true, "findby": {"id": "android:id/list"}}
+]
+}

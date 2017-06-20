@@ -1,0 +1,9 @@
+{"app": "OverDrive",
+"package": "com.overdrive.mobile.android.mediaconsole",
+"name": "scroll_webview",
+"actions": [
+{"action": "click", "measure":false, "findby": {"desc": "Open home menu", "class": "android.widget.ImageButton"}},
+{"action": "click", "measure":false, "findby": {"id": "com.overdrive.mobile.android.mediaconsole:id/title", "text": "Cochise County Library District"}},
+{"action": "scroll", "measure":true, "findby": {"id": "com.overdrive.mobile.android.mediaconsole:id/webview", "class": "android.webkit.WebView"}}
+]
+}

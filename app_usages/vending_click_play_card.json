@@ -1,0 +1,7 @@
+{"app": "Google Play Store",
+"package": "com.android.vending",
+"name": "click_play_card",
+"actions": [
+{"action": "click", "measure":true, "findby": {"id": "com.android.vending:id/li_thumbnail_frame", "class":"android.widget.FrameLayout"}}
+]
+}

@@ -1,0 +1,10 @@
+{"app": "KakaoTalk",
+"package": "com.kakao.talk",
+"name": "scroll_list",
+"actions": [
+{"action": "click", "measure":false, "findby": {"class": "android.widget.RelativeLayout", "desc": "Chats tab"}},
+{"action": "click", "measure":false, "findby": {"id": "com.kakao.talk:id/title"}},
+{"action": "search", "measure":false, "findby": {"id": "com.kakao.talk:id/message_edit_text"}, "text":"Hi Bot"},
+{"action": "click", "measure":true, "findby": {"id": "com.kakao.talk:id/send", "text": "Send", "class": "android.widget.Button"}}
+]
+}

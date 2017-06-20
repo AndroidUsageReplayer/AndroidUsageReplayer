@@ -1,0 +1,7 @@
+{"app": "Yahoo Mail",
+"package": "com.yahoo.mobile.client.android.mail",
+"name": "scroll_list",
+"actions": [
+{"action": "scroll", "measure":true, "findby": {"id": "com.yahoo.mobile.client.android.mail:id/mail_list"}}
+]
+}

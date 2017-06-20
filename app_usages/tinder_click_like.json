@@ -1,0 +1,7 @@
+{"app": "Tinder",
+"package": "com.tinder",
+"name": "click_like",
+"actions": [
+{"action": "click", "measure":true, "findby": {"id": "com.tinder:id/revised_like"}}
+]
+}

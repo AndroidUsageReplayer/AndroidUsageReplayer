@@ -1,0 +1,8 @@
+{"app": "eBay",
+"package": "com.ebay.mobile",
+"name": "search",
+"actions": [
+{"action": "click", "measure":false, "findby": {"id": "com.ebay.mobile:id/search_box", "text": "Search eBay"}},
+{"action": "search", "measure":true, "findby": {"id": "com.ebay.mobile:id/search_src_text", "text": "Search eBay"}, "text": "adapter"}
+]
+}

@@ -1,0 +1,9 @@
+{"app": "TripAdvisor",
+"package": "com.tripadvisor.tripadvisor",
+"name": "scroll_list",
+"actions": [
+{"action": "click", "measure": false, "findby": {"text": "Near Me Now"}},
+{"action": "click", "measure": false, "findby": {"text": "All Restaurants"}},
+{"action": "scroll", "measure":true, "findby": {"id": "com.tripadvisor.tripadvisor:id/results_list", "class": "android.widget.ListView"}}
+]
+}

@@ -1,0 +1,7 @@
+{"app": "Yelp",
+"package": "com.yelp.android",
+"name": "click_activity",
+"actions": [
+{"action": "click", "measure":true, "findby": {"id": "com.yelp.android:id/hot_button_feed", "desc":"Activity"}}
+]
+}

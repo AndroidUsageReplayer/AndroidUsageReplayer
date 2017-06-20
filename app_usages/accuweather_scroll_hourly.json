@@ -1,0 +1,8 @@
+{"app": "AccuWeather",
+"package": "com.accuweather.android",
+"name": "scroll_hourly",
+"actions": [
+{"action": "click", "measure":false, "findby": {"text": "HOURLY"}},
+{"action": "scroll", "measure":true, "findby": {"id": "com.accuweather.android:id/hourly_details_list", "class": "android.widget.ListView"}}
+]
+}

@@ -1,0 +1,7 @@
+{"app": "Slickdeals",
+"package": "net.slickdeals.android",
+"name": "scroll_list",
+"actions": [
+{"action": "scroll", "measure":true, "findby": {"id": "net.slickdeals.android:id/deals_list"}}
+]
+}

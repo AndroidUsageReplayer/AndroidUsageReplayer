@@ -1,0 +1,8 @@
+{"app": "GroupMe",
+"package": "com.groupme.android",
+"name": "scroll_list",
+"actions": [
+{"action": "click", "measure":false, "findby": {"id": "com.groupme.android:id/view_avatar", "class": "android.widget.ImageView"}},
+{"action": "scroll", "measure":true, "findby": {"id": "android:id/list", "class": "android.support.v7.widget.RecyclerView"}}
+]
+}

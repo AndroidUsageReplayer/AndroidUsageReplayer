@@ -1,0 +1,9 @@
+{"app": "YouTube",
+"package": "com.google.android.youtube",
+"name": "scroll_watchlist",
+"actions": [
+{"action": "click", "measure":false, "findby": {"id": "com.google.android.youtube:id/menu_search", "desc": "Search"}},
+{"action": "search", "measure":true, "findby": {"id": "com.google.android.youtube:id/search_edit_text", "text": "Search YouTube"}, "text": "election"}
+
+]
+}

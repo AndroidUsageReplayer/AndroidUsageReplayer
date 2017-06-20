@@ -1,0 +1,7 @@
+{"app": "iFunny",
+"package": "mobi.ifunny",
+"name": "scroll_viewpager",
+"actions": [
+{"action": "scroll", "measure":true, "findby": {"id": "mobi.ifunny:id/view_pager"}}
+]
+}

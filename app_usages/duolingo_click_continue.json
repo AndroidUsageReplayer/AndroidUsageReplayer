@@ -1,0 +1,11 @@
+{"app": "Duolingo",
+"package": "com.duolingo",
+"name": "click_continue",
+"actions": [
+{"action": "click", "measure":false, "findby": {"id": "com.duolingo:id/start_basics_button"}},
+{"action": "click", "measure":false, "findby": {"id": "com.duolingo:id/image_container1"}},
+{"action": "click", "measure":false, "findby": {"id": "com.duolingo:id/submit_button"}},
+{"action": "click", "measure":true, "findby": {"id": "com.duolingo:id/continue_button"}}
+
+]
+}

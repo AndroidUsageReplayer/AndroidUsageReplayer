@@ -1,0 +1,7 @@
+{"app": "ET",
+"package": "com.et.reader.activities",
+"name": "scroll_list_up",
+"actions": [
+{"action": "scroll", "measure":true, "findby": {"id": "android:id/list", "class": "android.widget.ListView"}, "direction": "UP"}
+]
+}

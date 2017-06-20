@@ -1,0 +1,7 @@
+{"app": "Guardian",
+"package": "com.guardian",
+"name": "click_article",
+"actions": [
+{"action": "click", "measure":true, "findby": {"id": "com.guardian:id/card_headline"}}
+]
+}

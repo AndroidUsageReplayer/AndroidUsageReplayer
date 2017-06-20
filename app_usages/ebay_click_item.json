@@ -1,0 +1,9 @@
+{"app": "eBay",
+"package": "com.ebay.mobile",
+"name": "click_item",
+"actions": [
+{"action": "click", "measure":false, "findby": {"id": "com.ebay.mobile:id/capsule_deals", "text": "Deals"}},
+{"action": "click", "measure":true, "findby": {"id": "com.ebay.mobile:id/card_item_1"}}
+
+]
+}

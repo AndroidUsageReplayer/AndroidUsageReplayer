@@ -1,0 +1,7 @@
+{"app": "ET",
+"package": "com.et.reader.activities",
+"name": "click_row_item_headline.json",
+"actions": [
+{"action": "click", "measure":true, "findby": {"id": "com.et.reader.activities:id/row_item_headline"}}
+]
+}

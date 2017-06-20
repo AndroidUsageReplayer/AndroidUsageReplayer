@@ -1,0 +1,7 @@
+{"app": "Maps",
+"package": "com.google.android.apps.maps",
+"name": "click_map",
+"actions": [
+{"action": "click", "measure":true, "findby": {"id": "android:id/content"}}
+]
+}

@@ -1,0 +1,9 @@
+{"app": "Twitter",
+"package": "com.twitter.android",
+"name": "scroll_list",
+"actions": [
+{"action": "click", "measure":false, "findby": {"id": "com.twitter.android:id/drawer_icon", "desc": "Show navigation drawer"}},
+{"action": "click", "measure":false, "findby": {"id": "com.twitter.android:id/title", "text": "Profile"}},
+{"action": "scroll", "measure":true, "findby": {"id": "android:id/list", "class": "android.widget.ListView"}}
+]
+}

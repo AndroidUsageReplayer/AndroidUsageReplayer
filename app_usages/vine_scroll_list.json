@@ -1,0 +1,7 @@
+{"app": "Vine",
+"package": "co.vine.android",
+"name": "scroll_list",
+"actions": [
+{"action": "scroll", "measure":true, "findby": {"id": "android:id/list", "class": "android.widget.ListView"}}
+]
+}

@@ -1,0 +1,8 @@
+{"app": "AOL",
+"package": "com.aol.mobile.aolapp",
+"name": "scroll_list",
+"actions": [
+{"action": "click", "measure":false, "findby": {"id": "com.aol.mobile.aolapp:id/title"}},
+{"action": "scroll", "measure":true, "findby": {"id": "com.aol.mobile.aolapp:id/article_scroller", "class":"android.widget.ScrollView"}}
+]
+}

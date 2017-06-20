@@ -1,0 +1,8 @@
+{"app": "Yik Yak",
+"package": "com.yik.yak",
+"name": "scroll_detail",
+"actions": [
+{"action": "click", "measure":false, "findby": {"id": "com.yik.yak:id/", "class": "android.widget.RelativeLayout"}},
+{"action": "scroll", "measure":true, "findby": {"id": "com.yik.yak:id/", "class": "android.support.v7.widget.RecyclerView"}}
+]
+}

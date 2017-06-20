@@ -1,0 +1,8 @@
+{"app": "ET",
+"package": "com.et.reader.activities",
+"name": "scroll_list",
+"actions": [
+{"action": "click", "measure":false, "findby": {"id": "com.et.reader.activities:id/row_item_headline"}},
+{"action": "scroll", "measure":true, "findby": {"id": "com.et.reader.activities:id/top_scroll_view"}}
+]
+}

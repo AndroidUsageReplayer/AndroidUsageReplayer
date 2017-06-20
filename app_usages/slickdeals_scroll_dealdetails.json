@@ -1,0 +1,8 @@
+{"app": "Slickdeals",
+"package": "net.slickdeals.android",
+"name": "scroll_list",
+"actions": [
+{"action": "click", "measure":false, "findby": {"id": "net.slickdeals.android:id/deal_row_linear_layout", "class": "android.widget.LinearLayout"}}, 
+{"action": "scroll", "measure":true, "findby": {"id": "net.slickdeals.android:id/deal_details_scrollview"}}
+]
+}

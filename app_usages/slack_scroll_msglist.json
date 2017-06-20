@@ -1,0 +1,7 @@
+{"app": "Slack",
+"package": "com.Slack",
+"name": "scroll_msglist",
+"actions": [
+{"action": "scroll", "measure":true, "findby": {"id": "com.Slack:id/messages_list", "class": "android.support.v7.widget.RecyclerView"}}
+]
+}

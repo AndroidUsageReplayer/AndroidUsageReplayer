@@ -1,0 +1,8 @@
+{"app": "Twitter",
+"package": "com.twitter.android",
+"name": "scroll_tweet",
+"actions": [
+{"action": "click", "measure":false, "findby": {"id": "com.twitter.android:id/tweet_content_text"}},
+{"action": "scroll", "measure":true, "findby": {"id": "android:id/list"}}
+]
+}

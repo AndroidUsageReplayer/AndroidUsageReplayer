@@ -1,0 +1,7 @@
+{"app": "NPR News",
+"package": "org.npr.android.news",
+"name": "click_newsitem",
+"actions": [
+{"action": "click", "measure":true, "findby": {"id": "org.npr.android.news:id/NewsItemNameText"}}
+]
+}
